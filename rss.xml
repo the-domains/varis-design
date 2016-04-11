@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Varis Design]]></title>
-        <description><![CDATA[Varis Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Fresh design and video news from Pekka Varis]]></title>
+        <description><![CDATA[Fresh design and video news from Pekka Varis]]></description>
+        <link>https://thegrid.ai/varis-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 07:41:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 06:50:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/varis-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c349be-356c-4ab4-bee8-6b0f6f1971f3.jpg">]]></description>
+            <link>https://thegrid.ai/varis-design/edit-time/index.html</link>
+            <guid isPermaLink="false">04364319-0e3d-4cee-9d38-0e1798b150db</guid>
+            <pubDate>Mon, 11 Apr 2016 06:49:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7ef2128-de80-4bf8-9faf-c04cee6122d1.jpg">]]></description>
-            <link>undefinedmy-video-revolutionary-slider-ui-mock-up-has-been-90-done/index.html</link>
+            <link>https://thegrid.ai/varis-design/my-video-revolutionary-slider-ui-mock-up-has-been-90-done/index.html</link>
             <guid isPermaLink="false">8e38ae82-8952-46cf-a60b-7660a8517ce3</guid>
             <pubDate>Tue, 29 Mar 2016 07:40:15 GMT</pubDate>
         </item>
